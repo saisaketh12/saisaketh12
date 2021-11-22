@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SGPA_CAL 
+class SGPA_Cal 
 {
      public static void main (String[] args)
  {
